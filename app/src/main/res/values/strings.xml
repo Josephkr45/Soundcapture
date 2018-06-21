@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Soundcapture</string>
+    <string-array name="Source">
+        <item>HOME</item>
+        <item>LIBRARY</item>
+        <item>TRAFFIC</item>
+        <item>OFFICE</item>
+        <item>OUTSIDE</item>
+    </string-array>
+    <string-array name="Distance">
+        <item>0 m</item>
+        <item>10 m</item>
+        <item>20 m</item>
+        <item>30 m</item>
+        <item>40 m</item>
+        <item>50 m</item>
+        <item>60 m</item>
+        <item>70 m</item>
+        <item>80 m</item>
+        <item>90 m</item>
+        <item>100 m</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
 </resources>

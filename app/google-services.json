@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "116409539081",
+    "firebase_url": "https://senoisor-af924.firebaseio.com",
+    "project_id": "senoisor-af924",
+    "storage_bucket": "senoisor-af924.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116409539081:android:2909294dc68191c1",
+        "android_client_info": {
+          "package_name": "com.iot.bcrec.soundcapture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116409539081-gtm6ph6rdp1n4u2cl36js0kodlbdpv84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb0U3cPQLH8Qgim4rMwG8dycR7Ss7p11w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
